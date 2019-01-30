@@ -1,5 +1,5 @@
 import React from 'react';
-import { Head } from 'doca-bootstrap-theme';
+import { Head } from 'doca-involves-theme';
 import config from '../../config';
 
 export default () =>
